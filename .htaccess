@@ -1,0 +1,6 @@
+RewriteEngine On
+ErrorDocument 400     http://hascoding.com/hatalar/index.php?hata=400
+ErrorDocument 401     http://hascoding.com/hatalar/index.php?hata=401
+ErrorDocument 403     http://hascoding.com/hatalar/index.php?hata=403
+ErrorDocument 404     http://hascoding.com/hatalar/index.php
+ErrorDocument 500     http://hascoding.com/hatalar/index.php?hata=500
